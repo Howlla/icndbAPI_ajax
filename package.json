@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap_4",
+  "version": "1.0.0",
+  "description": "TRAVERSYMEDIA bootstrap 4 course",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "bhavye",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.2.1"
+  }
+}
